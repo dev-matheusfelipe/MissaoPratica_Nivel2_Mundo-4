@@ -5,3 +5,9 @@
     <h1 align="center"> Universidade Estácio de Sá </h1>
      <hr>
 </div> 
+
+* DESENVOLVIMENTO FULL STACK- 
+* Disciplina: RPG0024  - Posso criar um App de outra forma.
+* Semestre Letivo: 2024.1
+
+<hr>
